@@ -1,11 +1,7 @@
 {
   "db": {
-    "host": "localhost",
-    "port": 5432,
-    "database": "test_loopback",
-    "password": "password",
     "name": "db",
     "connector": "postgresql",
-    "user": "postgres"
+    "url": "postgresql://neondb_owner:npg_GRMn6dFfz5We@ep-damp-flower-a8b630ox-pooler.eastus2.azure.neon.tech/neondb?sslmode=require"
   }
 }
