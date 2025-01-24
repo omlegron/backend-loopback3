@@ -1,0 +1,5 @@
+--require @babel/register
+--require fs
+--recursive
+--timeout 4000
+test
